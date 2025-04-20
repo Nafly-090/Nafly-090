@@ -20,7 +20,6 @@
         <strong>Software Technologies</strong>. I love building full-stack apps that solve real-world problems and
         enhance user experience with smart design.
     </p>
-
     <ul dir="auto">
         <li>🎓 <strong>Undergraduate in ICT (Software Technologies)</strong></li>
         <li>💡 <strong>Passionate about Web & Mobile Development, AI/ML, IoT, and AR</strong></li>
@@ -141,15 +140,12 @@
                 alt="React"
                 data-canonical-src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB"
                 style="max-width: 100%;"></a>
-
         <a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer">
             <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;&logo=node.js&logoColor=white"
                 alt="Node.js"></a>
-
         <a href="https://expressjs.com/" target="_blank" rel="noopener noreferrer">
             <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&amp;&logo=express&logoColor=white"
                 alt="Express.js"></a>
-
         <a target="_blank" rel="noopener noreferrer nofollow"
             href="https://camo.githubusercontent.com/839c2b7156d9a4e8f021ae6c539331e84ea18bf0fd0ee15835f0695a838b292e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c61726176656c2d4646324432303f7374796c653d666f722d7468652d6261646765266c6f676f3d6c61726176656c266c6f676f436f6c6f723d7768697465"><img
                 src="https://camo.githubusercontent.com/839c2b7156d9a4e8f021ae6c539331e84ea18bf0fd0ee15835f0695a838b292e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c61726176656c2d4646324432303f7374796c653d666f722d7468652d6261646765266c6f676f3d6c61726176656c266c6f676f436f6c6f723d7768697465"
@@ -162,17 +158,12 @@
                 alt="Bootstrap 5"
                 data-canonical-src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white"
                 style="max-width: 100%;"></a>
-
         <a href="https://developer.vuforia.com/" target="_blank" rel="noopener noreferrer">
             <img src="https://img.shields.io/badge/Vuforia-00B140?style=for-the-badge&amp;&logo=vuforia&logoColor=white"
                 alt="Vuforia"></a>
         <a href="https://unity.com/" target="_blank" rel="noopener noreferrer">
             <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&amp;&logo=unity&amp;&logoColor=white"
                 alt="Unity"></a>
-
-
-
-
     </p>
     <div class="markdown-heading" dir="auto">
         <h4 class="heading-element" dir="auto">🎨 UI/UX &amp; Design Tools</h4><a id="user-content--uiux--design-tools"
@@ -221,7 +212,6 @@
                 data-canonical-src="https://img.shields.io/badge/CorelDraw-1E1E1E?style=for-the-badge&amp;logo=corelDraw&amp;logoColor=green"
                 style="max-width: 100%;"></a>
     </p>
-
     <div class="markdown-heading" dir="auto">
         <h4 class="heading-element" dir="auto">🛢️ Databases &amp; Cloud</h4><a id="user-content-️-databases--cloud"
             class="anchor" aria-label="Permalink: 🛢️ Databases &amp; Cloud" href="#️-databases--cloud"><svg
@@ -393,7 +383,6 @@
     </p>
     <hr>
     <h3>📈 GitHub Stats</h3>
-
     <div align="center">
         <!-- GitHub Streak Stats -->
         <a href="https://github-readme-streak-stats.herokuapp.com/?user=Nafly-090&theme=tokyonight" target="_blank">
@@ -401,7 +390,6 @@
                 alt="GitHub Streak Stats" style="max-width: 100%;" />
         </a>
         <br>
-
         <!-- GitHub General Stats -->
         <a href="https://github-readme-stats.vercel.app/api?username=Nafly-090&show_icons=true&theme=tokyonight"
             target="_blank">
@@ -409,7 +397,6 @@
                 alt="GitHub Stats" style="max-width: 100%;" />
         </a>
         <br>
-
         <!-- Top Languages -->
         <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Nafly-090&layout=compact&theme=tokyonight"
             target="_blank">
@@ -417,7 +404,6 @@
                 alt="Top Languages" style="max-width: 100%;" />
         </a>
     </div>
-
     <hr>
     <div class="markdown-heading" dir="auto">
         <h3 class="heading-element" dir="auto">📫 Connect with Me</h3><a id="user-content--connect-with-me"
@@ -434,20 +420,15 @@
         <a href="mailto:naflan265@gmail.com">
             <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
                 alt="Email" style="max-width: 100%;" /></a>
-
         <!-- LinkedIn Badge -->
         <a href="https://www.linkedin.com/in/aj-naflan-277611252" rel="nofollow">
             <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
                 alt="LinkedIn" style="max-width: 100%;" /></a>
-
         <!-- Facebook Badge -->
         <a href="https://www.facebook.com/NaflanAJ" rel="nofollow">
             <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
                 alt="Facebook" style="max-width: 100%;" /></a>
-
-
     </p>
-
     <hr>
     <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow"
             href="https://camo.githubusercontent.com/f05e5dfdc431bdd7b3fa8115063607f4e4d40a095b818f06c7c1c96dd23b48a8/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3135302673656374696f6e3d666f6f746572"><img
@@ -455,6 +436,5 @@
                 alt="Footer"
                 data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=150&amp;section=footer"
                 style="max-width: 100%;"></a></p>
-
 
 </article>
