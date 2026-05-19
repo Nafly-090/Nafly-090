@@ -256,9 +256,11 @@ Browser-based 3D text asset creation via REST API + Three.js frontend.
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nafly-090&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&cache_seconds=1800" alt="GitHub Stats"/>
-  &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nafly-090&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&cache_seconds=1800" alt="Top Languages"/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nafly-090&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nafly-090&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
 </div>
 
 <div align="center">
